@@ -21,6 +21,7 @@
       text-decoration: none;
       color: #555;
       padding: 10px 0;
+      width: 200px;
     }
 
     .linkGroup a:hover {
@@ -48,6 +49,8 @@
     <a href="./php_basic/1694.php"><span>1694</span>session/cookie</a>
     <a href="./php_basic/1697/index.php"><span>1697</span>login/logout</a>
     <a href="./php_basic/1707.php"><span>1707</span>function</a>
+    <a href="./php_basic/1718.php"><span>1718</span>database(PDO)</a>
+    <a href="./php_basic/1727.php"><span>1727</span>database(fetch)</a>
 
     <!-- <a href="./php_basic/1.php"><span>1</span></a> -->
 
