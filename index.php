@@ -57,9 +57,6 @@
       <a href="./php_basic/1707.php"><span>1707</span>function</a>
       <a href="./php_basic/1718.php"><span>1718</span>database(PDO)</a>
       <a href="./php_basic/1727.php"><span>1727</span>database(fetch)</a>
-
-      <!-- <a href="./php_basic/1.php"><span>1</span></a> -->
-
     </div>
     <div class="linkGroup">
       <a href="./php_OOP/1856/index.php"><span>1856</span>create class/properties/methods</a>
@@ -75,8 +72,13 @@
       <a href="./php_OOP/1876.php"><span>1876</span>interface</a>
       <a href="./php_OOP/1877.php"><span>1877</span>traits</a>
       <a href="./php_OOP/1878/index.php"><span>1878</span>SPL(spl_autoload_register)</a>
-
-
+    </div>
+    <div class="linkGroup">
+      <a href="./composer/index.php"><span>5011</span>composer</a>
+      <a href="./composer/readme.md"><span>5011</span>composer's readme</a>
+      <a href="./design_mode/factory.php"><span>4998</span>factory mode</a>
+      <a href="./design_mode/adapter.php"><span>4998</span>adapter mode</a>
+      <a href="./design_mode/decorator.php"><span>4998</span>decorator mode</a>
     </div>
   </div>
 
